@@ -1,5 +1,5 @@
 {
-  "name": "jankx/image-lazyload",
+  "name": "jankx/lazyload",
   "description": "Load WordPress image via Lazyload",
   "type": "library",
   "license": "MIT",
